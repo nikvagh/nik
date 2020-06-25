@@ -1,4 +1,4 @@
-<div class="info-box casted">
+<div class="info-box casted">  
   <div class="box-body no-padding">
     <p style="float: left; font-weight: 700;">QUICK TALENT SEARCH</p>
 

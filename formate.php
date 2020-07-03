@@ -2,7 +2,7 @@
   <div class="box-body no-padding">
     <p style="float: left; font-weight: 700;">QUICK TALENT SEARCH</p>
 
-    <p style="float: right; color: #00BCD4;"><i class="fa fa-circle-o" aria-hidden="true"></i></p>
+    <p style="float: right; color: #00BCD4;"><i class="fa fa-circle-o" aria-hidden="true"></i></p> 
     <p style="float: right; padding-right: 20px; color: #00BCD4; font-weight: 700;">
       <!-- Location <i class="fa fa-angle-down"> </i> --> &nbsp;
     </p>
